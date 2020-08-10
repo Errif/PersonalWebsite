@@ -1,2 +1,11 @@
-- name: Action Hugo
-  uses: kevvurs/action-hugo@v1.0-rc2
+name: Build Hugo
+on: [push]
+jobs:
+  build:
+    name: Build
+    runs-on: ubuntu-latest
+    steps:
+    - name: Check out code
+      uses: actions/checkout@master
+    - name: Build Hugo
+      uses: lowply/build-hugo@v0.74.1
