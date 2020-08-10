@@ -1,21 +1,2 @@
-name: Publish Site
-
-on:
-  push:
-    branches:
-      - master
-
-jobs:
-  build-deploy:
-    runs-on: ubuntu-latest
-
-    steps:
-      - name: Checkout Repo
-        uses: actions/checkout@master
-        with:
-          submodules: true
-      - name: Publish Site
-        uses: chabad360/hugo-gh-pages@master
-        with:
-          githubToken: ${{ 5941bde61a233d46176c30a54de83402e09d83d8  }}
-
+- name: Action Hugo
+  uses: kevvurs/action-hugo@v1.0-rc2
