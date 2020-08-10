@@ -1,5 +1,5 @@
 ---
-title: "Hello"
+title: "Hello there"
 featured_image: '/images/space.jpg'
 description: "\"We are made of starstuff\""
 ---

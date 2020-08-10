@@ -2,7 +2,6 @@ title = "Edvin's website"
 baseURL = "https://edvins-website.netlify.app"
 languageCode = "en-us"
 theme = "ananke"
-
 DefaultContentLanguage = "en"
 SectionPagesMenu = "main"
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
@@ -25,7 +24,7 @@ enableRobotsTXT = true
   youtube = ""
   github = "https://github.com/Errif"
   gitlab = ""
-  linkedin = ""
+  linkedin = " "
   mastodon = ""
   slack = ""
   stackoverflow = ""
@@ -34,4 +33,6 @@ enableRobotsTXT = true
   background_color_class = "bg-black"
   featured_image = "images/space.jpg"
   recent_posts_number = 2
+
   show_reading_time = true
+  toc = false
