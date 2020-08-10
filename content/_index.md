@@ -1,6 +1,1 @@
----
-title: "Hello there"
-featured_image: '/images/space.jpg'
-description: "\"We are made of starstuff\""
----
-Welcome to my blog with some of my work in progress. I've been working on this book idea. You can read some of the chapters below.
+**NOTE:** I'm in the process of building up this website as I'm writing this so expect things to change over the coming period. Feel free to read the first post below titled "Hello World", and stay tuned for more!
