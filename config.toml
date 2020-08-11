@@ -84,6 +84,10 @@ pygmentsCodefencesGuessSyntax = true
     url = "page/about/"
     weight = 3
 
+[[menu.main]]
+    name = "Contact"
+    url = "contact"
+    weight = 4
 # [[menu.main]]
 #     identifier = "samples"
 #     name = "Samples"
