@@ -2,9 +2,9 @@
 title: Hello world!
 subtitle: The beginning...
 date: 2020-08-10
+tags: ["website", "personal"]
+draft: false
 ---
-
-
 
 A **big** warm welcome to anyone who is reading this!
 

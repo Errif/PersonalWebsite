@@ -17,7 +17,7 @@ pygmentsCodefencesGuessSyntax = true
   homeTitle = "Greetings!" # Set a different text for the header on the home page
   subtitle = "Welcome to Edvin's corner of the universe"
   mainSections = ["post","posts"]
-  logo = "img/avatar-icon.png" # Expecting square dimensions
+  logo = "uploads/rocket_icon_modified.png" # Expecting square dimensions
   favicon = "img/favicon.ico"
   dateFormat = "January 2, 2006"
   commit = false
@@ -29,9 +29,9 @@ pygmentsCodefencesGuessSyntax = true
   socialShare = false
   delayDisqus = false
   showRelatedPosts = true
+  custom_css = ["css/my-custom.css"]
 #  hideAuthor = true
 #  gcse = "012345678901234567890:abcdefghijk" # Get your code from google.com/cse. Make sure to go to "Look and Feel" and change Layout to "Full Width" and Theme to "Classic"
-
 #[[Params.bigimg]]
 #  src = "img/triangle.jpg"
 #  desc = "Triangle"
@@ -87,6 +87,11 @@ pygmentsCodefencesGuessSyntax = true
 [[menu.main]]
     name = "Contact"
     url = "contact"
+    weight = 3
+
+[[menu.main]]
+    name = "Tags"
+    url = "tags"
     weight = 4
 # [[menu.main]]
 #     identifier = "samples"
@@ -111,7 +116,3 @@ pygmentsCodefencesGuessSyntax = true
 #     url = "post/2016-03-08-code-sample"
 #     weight = 3
 
-# [[menu.main]]
-#     name = "Tags"
-#     url = "tags"
-#     weight = 3

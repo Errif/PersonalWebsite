@@ -1,0 +1,54 @@
+.custom-form-message-padding{
+    padding: 0px 0%;
+    color: #000;
+}
+
+/* .post-preview .post-meta,
+.post-heading .post-meta,
+.page-meta {
+    color: #4d91bb;
+    font-size: 18px;
+    font-style: normal;
+    margin: 0 0 10px;
+  } */
+
+.fa-calendar, .fa-clock, .fa-book, .fa-user{
+    color: #ce5804;
+}
+
+.badge{
+    background-color: #ce5804;
+}
+
+
+/* .avatar-img{
+    transition: all .2s ease-in-out; 
+}
+
+.avatar-img:hover{
+    transform: scale(1.1); 
+} */
+
+.grow { 
+    transition: all .2s ease-in-out; 
+}
+    
+.grow:hover { 
+    transform: scale(1.1); 
+}
+
+.shrink { 
+    transition: all .2s ease-in-out; 
+    }
+    
+.shrink:hover { 
+    transform: scale(0.9); 
+}
+
+/* html { 
+    background: url(/Web/uploads/pexels-laura-meinhardt.jpg) no-repeat center center fixed; 
+    -webkit-background-size: cover;
+    -moz-background-size: cover;
+    -o-background-size: cover;
+    background-size: cover;
+  } */

@@ -1,5 +1,10 @@
 /* --- General --- */
 
+.custom-form-message-padding{
+  padding-right: 100px;
+  background-color: #000;
+}
+
 body {
   font-family: 'Lora', 'Times New Roman', serif;
   font-size: 18px;
