@@ -3,6 +3,7 @@ title: Hello world!
 subtitle: The beginning...
 date: 2020-08-10
 tags: ["website", "personal"]
+post_image: "/uploads/rocket_icon_modified.png"
 draft: false
 ---
 

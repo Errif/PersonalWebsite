@@ -6,6 +6,21 @@
     resize: vertical;
 }
 
+
+.post-entry-container {
+    display: inline-block;
+    width: 100%;
+}
+
+.post-image{
+    margin: 20px 0px 0px 20px;
+    filter: grayscale(30%);
+}
+
+.post-read-more{
+    display: contents;
+}
+
 /* .post-preview .post-meta,
 .post-heading .post-meta,
 .page-meta {
