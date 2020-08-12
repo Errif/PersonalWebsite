@@ -32,15 +32,16 @@ If you have any questions that you want to ask me I'll be glad to respond. Just 
         </div>
     </div>
     <!-- Textarea -->
-    <div class="form-group custom-form-message-padding">
+    <div class="form-group custom-form-message">
         <label class="col-md-4 control-label" for=""></label>
-        <textarea class="form-control" id="contact-form-message" name="Message" placeholder="What's up?" rows="8"></textarea>
+        <textarea class="form-control custom-form-message-textarea" id="contact-form-message" name="Message" placeholder="Type Your Message Here ..." rows="8"></textarea>
     </div>
     <!-- Button -->
     <div class="form-group row">
-    <div class="col-sm-10">
+    <div class="col-12 text-center">
       <button type="submit" class="btn btn-primary">Submit</button>
     </div>
   </div>
 </form>
+
 {{< /rawhtml >}}

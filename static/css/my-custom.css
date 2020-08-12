@@ -1,5 +1,9 @@
-.custom-form-message-padding{
+.custom-form-message{
     padding: 0px 0%;
+}
+
+.custom-form-message-textarea{
+    resize: vertical;
 }
 
 /* .post-preview .post-meta,
