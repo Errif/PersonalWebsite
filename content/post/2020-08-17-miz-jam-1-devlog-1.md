@@ -42,6 +42,6 @@ You might say it does not make any sense and you would be right. I'm secretly la
 
 Then I set up the framework for a main menu with a play button, and started on a custom theme for the interface, though not much to show there. I also started looking into *tile maps* as a way to place images in a grid to create a world easily from the images in the art pack. I watched the video [Using the Tileset Editor in Godot 3.1 (tutorial)](https://www.youtube.com/watch?v=V9OoaOlXc_4&) to get up to speed on how it is used. 
 
-Anyways, so yeah, a guy that is surfing a tree that can shoot leaves and water! What more can you want? Let's see where this leads... :evergreen_tree:
+Anyways, so yeah, a guy that is surfing a tree that can shoot leaves and water! What more can you want? Let's see where this leads...  :evergreen_tree:
 
 To be continued!
