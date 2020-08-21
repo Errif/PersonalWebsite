@@ -32,4 +32,4 @@ What I have in mind is that you have to protect your kingdom of trees against a 
 
 Having spent almost 15 hours developing leaves 33 hours remaining to complete the game. Tomorrow I hope I can get most of the main game loop done, with added enemy fires that you can put out.  :fire: <= don't worry I put this fire on a fire resistant paper... 
 
-Take care, and I'll update on my progress tomorrow!
+Take care, and I'll update on my progress later!

@@ -1,6 +1,6 @@
 ---
-title: "Participating in my first game jam- Devlog #1"
-subtitle: "Creating a *complete* game in 48 hours" 
+title: "Miz Jam 1 - Devlog #1"
+subtitle: "Participating in my first game jam" 
 date: 2020-08-17
 tags: ["miz-jam-1", "game-dev", ]
 draft: false
