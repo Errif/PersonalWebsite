@@ -3,10 +3,7 @@ title: "Home"
 ---
 
 {{< admonition type=info title="Information" open=true >}}
-I'm in the process of building up this website as I'm writing this so expect things to change over the coming period. Feel free to read the first post below titled "Hello World", and stay tuned for more!
-
-
-
+I'm in the process of building and setting up this website. Feel free to explore around, sign up for the newsletter, and stay tuned for more!
 {{< /admonition >}}
 
 Subscribe to my newsletter by entering your email below. 
