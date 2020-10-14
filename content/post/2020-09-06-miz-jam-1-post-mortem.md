@@ -15,4 +15,4 @@ To download the game visit the game page by clicking the button below.
 <iframe frameborder="0" src="https://itch.io/embed/733890?border_width=0" width="206" height="165"><a href="https://edvinspace.itch.io/bad-fire">Bad fire by edvinspace</a></iframe>
 {{< /rawhtml >}}
 
-I'll end by sending a wave of appreciation for everyone checking out the game. 
+I'm planning to publish a *post mortem* in about a week outlining the good, the bad, and what I learnt trying to make a game in a limited amount of time.I'll end by sending a wave of appreciation for everyone checking out the game. Stay tuned for more!
